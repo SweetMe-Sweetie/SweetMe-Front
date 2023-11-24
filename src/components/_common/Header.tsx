@@ -101,7 +101,7 @@ const Header = () => {
 };
 
 const Div = styled.div`
-  width: 73vw;
+  width: 69vw;
   height: 160px;
   display: flex;
   justify-content: space-between;
